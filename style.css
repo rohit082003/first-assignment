@@ -65,3 +65,14 @@ body {
     border-radius: 15px;
     border: 2px solid rgb(255, 0, 225);
 }
+
+.bar-1 {
+    text-align: center;
+}
+
+.bar-text {
+    color: rgba(128, 128, 128, 0.37);
+    border-bottom: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
