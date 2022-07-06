@@ -94,10 +94,8 @@ body {
 
 .donate-5 {
     position: relative;
-
     width: 300px;
     height: 200px;
-    margin: 10px 0;
     background: bisque;
 }
 
@@ -107,4 +105,37 @@ body {
     height: 200px;
     margin: 10px 0;
     background: bisque;
+}
+
+.sever {
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 4%;
+}
+
+.need {
+    font-size: 40px;
+}
+
+.root {
+    display: flex;
+}
+
+.sever img {
+    width: 90%;
+}
+
+.none {
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+.just {
+    font-size: 40px;
+    text-align: center;
+}
+
+.add {
+    text-align: center;
 }
