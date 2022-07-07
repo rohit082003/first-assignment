@@ -78,33 +78,30 @@ body {
 }
 
 .donate-3 {
-    position: relative;
-    width: 310px;
+    width: 320px;
     height: 200px;
-    margin: 10px 0;
+    margin: 15px;
     background: bisque;
 }
 
 .help-3 {
     display: flex;
-    position: relative;
-    flex-direction: column;
-    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .donate-5 {
-    position: relative;
-    width: 300px;
+    width: 320px;
     height: 200px;
-    background: bisque;
+    background: rgb(245, 11, 136);
+    margin: 15px;
 }
 
 .donate-4 {
-    position: relative;
-    width: 300px;
+    width: 320px;
     height: 200px;
-    margin: 10px 0;
-    background: bisque;
+    margin: 15px;
+    background: rgb(84, 189, 235);
 }
 
 .sever {
@@ -138,4 +135,42 @@ body {
 
 .add {
     text-align: center;
+}
+
+.net {
+    color: rgb(255, 0, 0);
+}
+
+.kind {
+    background-color: blanchedalmond;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    margin-left: 15%;
+}
+
+.web {
+    text-align: left;
+    background-color: rgba(143, 220, 84, 0.851);
+    margin-left: 30%;
+    width: 30%;
+    height: 15%;
+    margin-right: 0%;
+    margin-top: 9.5%;
+    color: grey;
+    padding: 1px;
+}
+
+.left {
+    text-decoration: none;
+    background-color: rgba(233, 25, 35, 0.851);
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-left: 0%;
+    width: 12%;
+    height: 10%;
+    margin-right: 28%;
+    margin-top: 9%;
+    text-align: center;
+    color: aliceblue;
 }
